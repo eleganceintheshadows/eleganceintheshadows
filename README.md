@@ -20,3 +20,10 @@ If You Want, You Can Check:
 ︶𝆹𝅥⏝ㅤִㅤㅤ𔓕ㅤִㅤㅤ︶𝆹𝅥⏝ㅤִㅤㅤ𔓕ㅤִ
 ㅤ︶
 [<img alt="alt_text" width="100px" src="https://64.media.tumblr.com/e412409ecd11f18ea6c3e5eb3646420d/705e39b75584866f-2a/s250x400/7a9cc7fbc0983b98a8765e7d56b0a224b55ecfac.pnj" />](https://www.google.com/)ㅤㅤㅤㅤㅤㅤㅤ[<img alt="alt_text" width="100px" src="https://64.media.tumblr.com/c27f586d9c7df77fe3c3945af4e77073/705e39b75584866f-b2/s250x400/2a05e8c3a37ad5df130b3e498fbe6d9e09060212.pnj" />](https://www.google.com/)
+ㅤ
+<div id="header" align="center">
+  <img src="https://64.media.tumblr.com/ded6148df52478617c8eea2d91ca0eee/705e39b75584866f-4e/s250x400/c12f8a6bbeab84daa1680ad6c6f1ee43f0715e76.pnj" width="1000"/>
+</div>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="1000"/>
+</div>
