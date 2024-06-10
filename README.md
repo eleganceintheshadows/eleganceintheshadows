@@ -26,6 +26,7 @@ If You Want, You Can Check:
 <div id="header" align="center">
   <img src="https://64.media.tumblr.com/aeac1be1bae57b44ebf4bedff1cfda8b/705e39b75584866f-a3/s640x960/b34314348492969a3da9c8b7cf7baaa0a2e7e786.webp" width="2000"/>
 </div>
+Do Not Interact Whenever I Have Dni/Dniu In My Name, And Don't Copy Neither Inspo My Skins! Be Respectful.
 <div id="header" align="center">
   <img src="https://64.media.tumblr.com/d6cee1641f95503350c3b99de2994995/705e39b75584866f-17/s250x400/51a18805fca3f3ea485938d736f6e13f3ec58d0e.pnj" width="1000"/>
 </div>
